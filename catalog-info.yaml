@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ApiTest2
+  annotations:
+    github.com/project-slug: sirmmacias/ApiTest2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: squad-1
